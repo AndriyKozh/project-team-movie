@@ -1,22 +1,20 @@
 {
-  "name": "parcel-project-template",
+  "name": "project-team-movie",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ProtsyukPrits.github.io/movie-team-project",
+  "homepage": "https://github.com/AndriyKozh/project-team-movie",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /movie-team-project/"
+    "build": "parcel build src/*.html --public-url /project-team-movie/"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "type": "git"
+  
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Andriy Kozhevnikov <andriykozh32@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
-  },
+
   "dependencies": {
     "axios": "^0.27.2",
     "basiclightbox": "^5.0.4",
